@@ -1,8 +1,8 @@
 ## Hey 👋, I'm Sara Mohamed!
 
-<a href="رابط LinkedIn"><img align="left" alt="linkedin" src="assets/linkedin.svg" height="18px"/></a>
+<a href="https://www.linkedin.com/in/sara-mohamed-908b9a32a?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img align="left" alt="linkedin" src="assets/linkedin.svg" height="18px"/></a>
 <a href="رابط GitHub"><img align="left" alt="github" src="assets/github.svg" height="18px"/></a>
-<a href="mailto:your@email.com"><img alt="gmail" src="assets/gmail.svg" height="18px"/></a>
+<a href="Sara367139@gmail.com"><img alt="gmail" src="assets/gmail.svg" height="18px"/></a>
 
 I am a passionate **Flutter Developer 📱** and **Front-End Developer 🌐** who enjoys building modern, responsive, and user-friendly applications. I love turning ideas into beautiful mobile and web experiences while continuously learning new technologies and improving my skills.
 
