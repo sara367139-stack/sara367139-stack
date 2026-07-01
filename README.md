@@ -1,4 +1,4 @@
-md
+
 <h2 align="left">
   <br>Hi there! Sara Mohamed 👋<br>
   <br>I'm <b>Sara Mohamed</b>, Full Stack & Mobile App Developer 💻📱<br><br>
@@ -93,6 +93,6 @@ md
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sara%20Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-mohamed-908b9a32a)
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](Sara367139@gmail.com)
 
 ```
