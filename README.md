@@ -52,9 +52,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</a>
 
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -75,6 +72,12 @@
 </p>
 
 ---
+## 🛠️ Tech Stack
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 
 ## 👩🏻‍💻 About Me
 
@@ -89,10 +92,21 @@
 
 ---
 
+
+## 📚 Courses
+
+- Flutter Development Course — NTI
+- Frontend Development Course — SAIT Academy
+- Full Stack Course — ITI
+
+---
+
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sara%20Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-mohamed-908b9a32a)
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](Sara367139@gmail.com)
 
+
+[![GitHub](https://img.shields.io/badge/GitHub-sara367139--stack-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sara367139-stack)
 ```
